@@ -1,0 +1,7 @@
+theme: jekyll-theme-cayman
+title: "Oxbridge AI and Blockchain Masterclass"
+description: "Oct 2021"
+github:
+  show_downloads: false
+  is_project_page: false
+  html_show_sourcelink: false
