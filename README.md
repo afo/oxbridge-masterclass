@@ -1,2 +1,2 @@
-# Github Page repo for Data-X VSE
+# Github Page repo for the Oxbrdige Masterclass
 

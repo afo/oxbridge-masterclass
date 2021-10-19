@@ -29,6 +29,9 @@
 3. [Lowtech Demo Template](https://docs.google.com/presentation/d/1SJ4GldIKZeqo0rpNG-QyUjkzlBAXi08I1Pa-vEONz1Y/edit#slide=id.p1)
 
 ## Course description
+
+#### [Info website](https://www.predli.com/oxbridge-masterclass)
+
 This course will teach you applied aspects of AI, data science, machine learning, deep learning, and blockchain technology. At the same time you'll get a fundamental understanding of how to implement and build systems using state-of-the-art and open source tools.
 
 ## Resources
