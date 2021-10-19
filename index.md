@@ -2,11 +2,11 @@
 
 ### Data Science, Machine Learning, Deep Learning & Blockchain
 
-**Course Dates**: October 21 - 22 2021
+**Masterclass Dates**: October 21 - 22 2021
 
 **Schedule**
 
-<img src='https://alex.fo/oxbridge-masterclass/assets/imgs/syllabus.png' width=300px></img>
+<img src='https://alex.fo/oxbridge-masterclass/assets/imgs/syllabus.png' width=500px>
 
 ## Links to lecture slides
 
