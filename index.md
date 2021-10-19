@@ -6,14 +6,11 @@
 
 **Schedule**
 
-![](https://alex.fo/oxbridge-masterclass/assets/imgs/syllabus.png)
+<img src='https://alex.fo/oxbridge-masterclass/assets/imgs/syllabus.png' width=300px></img>
 
 ## Links to lecture slides
 
-1. Day 1 part 1
-2. Day 1 part 2
-3. Day 2 part 1
-4. Day 2 part 4
+1. To be posted
 
 ## Links to notebooks
 
