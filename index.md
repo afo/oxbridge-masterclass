@@ -12,6 +12,8 @@
 
 1. [Day 1 Part 1: Demystify AI](https://docs.google.com/presentation/d/1vUAPjG33PXfUoeN9O88QAOe9FcdFBb0sFBIjhjYUqKU/)
 2. [Day 1 Part 2: AI Applications](https://docs.google.com/presentation/d/1XjUtwQXFfGh1bQDSzG-MsZijBzQgxZZJfuZtJiLU07A/)
+3. [Day 2 Part 1: Real-world AI](https://docs.google.com/presentation/d/1-ocSYixiHOlbnX0C86z_sjVJ7EBCOuKTlKiGZVt60nY/)
+4. [Day 2 Part 2: Blockchain & Crypto](https://docs.google.com/presentation/d/1wbiJ2sjBvKn8K6lcVJHM9f7BTq8yIatB5JaGxuUprxM/)
 
 ## Links to notebooks
 
