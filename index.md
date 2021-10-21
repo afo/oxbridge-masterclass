@@ -11,6 +11,7 @@
 ## Links to lecture slides
 
 1. [Day 1 Part 1: Demystify AI](https://docs.google.com/presentation/d/1vUAPjG33PXfUoeN9O88QAOe9FcdFBb0sFBIjhjYUqKU/)
+2. [Day 1 Part2: AI Applications](https://docs.google.com/presentation/d/1XjUtwQXFfGh1bQDSzG-MsZijBzQgxZZJfuZtJiLU07A/)
 
 ## Links to notebooks
 
