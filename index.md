@@ -10,7 +10,7 @@
 
 ## Links to lecture slides
 
-1. To be posted
+1. [Day 1 Part 1: Demystify AI](https://docs.google.com/presentation/d/1vUAPjG33PXfUoeN9O88QAOe9FcdFBb0sFBIjhjYUqKU/)
 
 ## Links to notebooks
 
